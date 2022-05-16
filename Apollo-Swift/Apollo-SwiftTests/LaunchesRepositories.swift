@@ -1,6 +1,5 @@
 //
 //  LaunchesRepositories.swift
-//  MidasAssignmentTests
 //
 //  Created by Onur on 16.05.2022.
 //

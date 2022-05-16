@@ -1,6 +1,5 @@
 //
 //  SceneDelegate.swift
-//  MidasAssignment
 //
 //  Created by Onur on 14.05.2022.
 //

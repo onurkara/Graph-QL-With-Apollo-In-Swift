@@ -1,6 +1,5 @@
 //
 //  ReusableViewIdentifier.swift
-//  MidasAssignment
 //
 //  Created by Onur on 15.05.2022.
 //
